@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Data Engineering bootcamp via AiCore
+- 🌱 I’m currently learning Python
+
 <!--
 **vaz0550/vaz0550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
